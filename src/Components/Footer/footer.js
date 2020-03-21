@@ -26,7 +26,7 @@ class Footer extends Component {
                             <div class="col-lg-4 col-md-6">
                                 <div class="single-footer-widget">
                                     <div class="mb-40">
-                                        <img src={logo} alt="" />
+                                        <img src={logo} alt="relax hotel" />
                                     </div>
                                     <p>
                                         Technology and gadgets Adapter (MPA) is our favorite iPhone solution, since it lets you use the headphones
@@ -62,7 +62,7 @@ class Footer extends Component {
                                     <div class="footer-news">
                                         <div class="single-news d-flex">
                                             <div class="image">
-                                                <img class="" src="img/n1.jpg" alt="" />
+                                                <img class="" src="img/n1.jpg" alt="relax hotel" />
                                             </div>
                                             <div class="details">
                                                 <a href="#">
@@ -80,7 +80,7 @@ class Footer extends Component {
                                         </div>
                                         <div class="single-news d-flex">
                                             <div class="image">
-                                                <img class="" src="img/n2.jpg" alt="" />
+                                                <img class="" src="img/n2.jpg" alt="relax hotel" />
                                             </div>
                                             <div class="details">
                                                 <a href="#">

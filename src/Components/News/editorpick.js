@@ -30,7 +30,7 @@ class Editorpick extends Component {
 					<div class="single-post d-flex single-post2 mb-40">
 						<div class="thumb">
 							<div class="relative">
-								<img class="f-img img-fluid mx-auto" src={e1} alt=""/>
+								<img class="f-img img-fluid mx-auto" src={e1} alt="relax message"/>
 							</div>
 						</div>
 						<div class="">
@@ -51,7 +51,7 @@ class Editorpick extends Component {
 					<div class="single-post d-flex single-post2 mb-40">
 						<div class="thumb">
 							<div class="relative">
-								<img class="f-img img-fluid mx-auto" src={e2} alt=""/>
+								<img class="f-img img-fluid mx-auto" src={e2} alt="relax message"/>
 							</div>
 						</div>
 						<div class="">
@@ -72,7 +72,7 @@ class Editorpick extends Component {
 					<div class="single-post d-flex single-post2">
 						<div class="thumb">
 							<div class="relative">
-								<img class="f-img img-fluid mx-auto" src={e3} alt=""/>
+								<img class="f-img img-fluid mx-auto" src={e3} alt="relax message"/>
 							</div>
 						</div>
 						<div class="">
@@ -93,7 +93,7 @@ class Editorpick extends Component {
 					<div class="single-post d-flex single-post2">
 						<div class="thumb">
 							<div class="relative">
-								<img class="f-img img-fluid mx-auto"src={e4} alt=""/>
+								<img class="f-img img-fluid mx-auto"src={e4} alt="relax message"/>
 							</div>
 						</div>
 						<div class="">

@@ -39,7 +39,7 @@ class Popularnews extends Component {
 					<div class="single-post single-int mb-40">
 						<div class="thumb">
 							<div class="relative">
-								<img class="f-img img-fluid mx-auto" src={p1} alt=""/>
+								<img class="f-img img-fluid mx-auto" src={p1} alt="how to relax"/>
 							</div>
 						</div>
 						<div class="">
@@ -58,7 +58,7 @@ class Popularnews extends Component {
 					<div class="single-post single-int mb-40">
 						<div class="thumb">
 							<div class="relative">
-								<img class="f-img img-fluid mx-auto" src={p2} alt=""/>
+								<img class="f-img img-fluid mx-auto" src={p2} alt="how to relax"/>
 							</div>
 						</div>
 						<div class="">
@@ -80,7 +80,7 @@ class Popularnews extends Component {
 					<div class="single-post single-int mb-40">
 						<div class="thumb">
 							<div class="relative">
-								<img class="f-img img-fluid mx-auto" src={p3} alt=""/>
+								<img class="f-img img-fluid mx-auto" src={p3} alt="how to relax"/>
 							</div>
 						</div>
 						<div class="">
@@ -99,7 +99,7 @@ class Popularnews extends Component {
 					<div class="single-post single-int mb-40">
 						<div class="thumb">
 							<div class="relative">
-								<img class="f-img img-fluid mx-auto" src={p4} alt=""/>
+								<img class="f-img img-fluid mx-auto" src={p4} alt="how to relax"/>
 							</div>
 						</div>
 						<div class="">
@@ -121,9 +121,9 @@ class Popularnews extends Component {
 					<div class="single-post single-int mb-40">
 						<div class="thumb">
 							<div class="relative">
-								<img class="f-img img-fluid mx-auto" src={pvdo} alt=""/>
+								<img class="f-img img-fluid mx-auto" src={pvdo} alt="how to relax"/>
 								<a class="play-btn" href="https://www.youtube.com/watch?v=ARA0AxrnHdM">
-									<img src="{{asset('img/play-icon.png')}}" class="vdo-btn" alt=""/>
+									<img src="{{asset('img/play-icon.png')}}" class="vdo-btn" alt="how to relax"/>
 								</a>
 							</div>
 						</div>

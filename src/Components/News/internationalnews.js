@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 
+
 // import images
 import i1 from '../../Images/int-news//i1.jpg'
 import i2 from '../../Images/int-news//i2.jpg'
@@ -40,7 +41,7 @@ class InternationalNews extends Component {
                                         <div class="single-post single-int mb-40">
                                             <div class="thumb">
                                                 <div class="relative">
-                                                    <img class="f-img w-100 img-fluid mx-auto" src={i1} alt="" />
+                                                    <img class="f-img w-100 img-fluid mx-auto" src={i1} alt="relax message" />
                                                 </div>
                                             </div>
                                             <div class="">
@@ -73,7 +74,7 @@ class InternationalNews extends Component {
                                                 <div class="single-post single-int mb-40">
                                                     <div class="thumb">
                                                         <div class="relative">
-                                                            <img class="f-img w-100 img-fluid mx-auto" src={i2} alt="" />
+                                                            <img class="f-img w-100 img-fluid mx-auto" src={i2} alt="relax message" />
                                                         </div>
                                                     </div>
                                                     <div class="">
@@ -94,7 +95,7 @@ class InternationalNews extends Component {
                                                 <div class="single-post single-int mb-40">
                                                     <div class="thumb">
                                                         <div class="relative">
-                                                            <img class="f-img w-100 img-fluid mx-auto" src={i3} alt="" />
+                                                            <img class="f-img w-100 img-fluid mx-auto" src={i3} alt="relax message" />
                                                         </div>
                                                     </div>
                                                     <div class="">
@@ -118,7 +119,7 @@ class InternationalNews extends Component {
 
                             <div class="col-lg-4">
                                 <div class="ad-widget-wrap">
-                                    <img src={addImage} alt="" />
+                                    <img src={addImage} alt="relax message" />
                                 </div>
                             </div>
                         </div>

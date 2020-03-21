@@ -41,7 +41,7 @@ class Exvideo extends Component {
 					<div class="single-post">
 						<div class="thumb">
 							<div class="relative">
-								<img class="f-img img-fluid mx-auto" src={e1} alt=""/>
+								<img class="f-img img-fluid mx-auto" src={e1} alt="relax"/>
 								<div class="overlay overlay-bg"></div>
 							</div>
 						</div>
@@ -64,7 +64,7 @@ class Exvideo extends Component {
 								ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.
 							</p>
 							<a class="play-btn" href="https://www.youtube.com/watch?v=ARA0AxrnHdM">
-								<img src={vicon} class="mt-30" alt=""/>
+								<img src={vicon} class="mt-30" alt="relax"/>
 							</a>
 						</div>
 					</div>
@@ -72,7 +72,7 @@ class Exvideo extends Component {
 					<div class="single-post">
 						<div class="thumb">
 							<div class="relative">
-								<img class="f-img img-fluid mx-auto" src={e1} alt=""/>
+								<img class="f-img img-fluid mx-auto" src={e1} alt="relax"/>
 								<div class="overlay overlay-bg"></div>
 							</div>
 						</div>
@@ -95,7 +95,7 @@ class Exvideo extends Component {
 								ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.
 							</p>
 							<a class="play-btn" href="https://www.youtube.com/watch?v=ARA0AxrnHdM">
-								<img src={vicon}class="mt-30" alt=""/>
+								<img src={vicon}class="mt-30" alt="relax"/>
 							</a>
 						</div>
 					</div>
@@ -103,7 +103,7 @@ class Exvideo extends Component {
 					<div class="single-post">
 						<div class="thumb">
 							<div class="relative">
-								<img class="f-img img-fluid mx-auto" src={e1} alt=""/>
+								<img class="f-img img-fluid mx-auto" src={e1} alt="relax"/>
 								<div class="overlay overlay-bg"></div>
 							</div>
 						</div>
@@ -126,7 +126,7 @@ class Exvideo extends Component {
 								ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.
 							</p>
 							<a class="play-btn" href="https://www.youtube.com/watch?v=ARA0AxrnHdM">
-								<img src={vicon} class="mt-30" alt=""/>
+								<img src={vicon} class="mt-30" alt="relax"/>
 							</a>
 						</div>
 					</div>

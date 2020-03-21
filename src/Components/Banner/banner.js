@@ -40,7 +40,7 @@ class Banner extends Component {
                                         <div class="single-post mb-03">
                                             <div class="thumb">
                                                 <div class="relative">
-                                                    <img class="f-img img-fluid mx-auto" src={lb1} alt="" />
+                                                    <img class="f-img img-fluid mx-auto" src={lb1} alt="relax" />
                                                     <div class="overlay overlay-bg"></div>
                                                 </div>
                                             </div>
@@ -67,7 +67,7 @@ class Banner extends Component {
                                         <div class="single-post mb-03">
                                             <div class="thumb">
                                                 <div class="relative">
-                                                    <img class="f-img img-fluid mx-auto" src={lb2} alt="" />
+                                                    <img class="f-img img-fluid mx-auto" src={lb2} alt="relax" />
                                                     <div class="overlay overlay-bg"></div>
                                                 </div>
                                             </div>
@@ -95,7 +95,7 @@ class Banner extends Component {
                                         <div class="single-post">
                                             <div class="thumb">
                                                 <div class="relative">
-                                                    <img class="f-img img-fluid mx-auto" src={lb3} alt="" />
+                                                    <img class="f-img img-fluid mx-auto" src={lb3} alt="relax" />
                                                     <div class="overlay overlay-bg"></div>
                                                 </div>
                                             </div>
@@ -126,7 +126,7 @@ class Banner extends Component {
                                 <div class="single-post">
                                     <div class="thumb">
                                         <div class="relative">
-                                            <img class="f-img img-fluid mx-auto" src={bc1} alt="" />
+                                            <img class="f-img img-fluid mx-auto" src={bc1} alt="relax" />
                                             <div class="overlay overlay-bg"></div>
                                         </div>
                                     </div>
@@ -155,7 +155,7 @@ class Banner extends Component {
                                 <div class="single-post">
                                     <div class="thumb">
                                         <div class="relative">
-                                            <img class="f-img img-fluid mx-auto" src={bc1} alt="" />
+                                            <img class="f-img img-fluid mx-auto" src={bc1} alt="relax" />
                                             <div class="overlay overlay-bg"></div>
                                         </div>
                                     </div>
@@ -188,7 +188,7 @@ class Banner extends Component {
                                         <div class="single-post mb-03">
                                             <div class="thumb">
                                                 <div class="relative">
-                                                    <img class="f-img img-fluid mx-auto" src={br2} alt="" />
+                                                    <img class="f-img img-fluid mx-auto" src={br2} alt="relax" />
                                                     <div class="overlay overlay-bg"></div>
                                                 </div>
                                             </div>
@@ -217,7 +217,7 @@ class Banner extends Component {
                                         <div class="single-post">
                                             <div class="thumb">
                                                 <div class="relative">
-                                                    <img class="f-img img-fluid mx-auto" src={br1} alt="" />
+                                                    <img class="f-img img-fluid mx-auto" src={br1} alt="relax" />
                                                     <div class="overlay overlay-bg"></div>
                                                 </div>
                                             </div>
