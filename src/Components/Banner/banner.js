@@ -29,7 +29,7 @@ class Banner extends Component {
 
     render() {
         return (
-            <div>
+            <div style={{maxHeight:'90vh', overflow:'hidden'}}>
                 {/* <!-- Start Banner Area --> */}
                 <section class="banner-area text-left">
                     <div class="container-fluid" >
@@ -196,7 +196,7 @@ class Banner extends Component {
                                                 <div class="top-part d-flex justify-content-between">
                                                     <div>
                                                         <h4>United States</h4>
-                                                        <p>Saturday, September 08, 2018</p>
+                                                        <p> March, 2020</p>
                                                     </div>
                                                     <div>
                                                         <span class="lnr lnr-arrow-down text-white"></span>
@@ -225,7 +225,7 @@ class Banner extends Component {
                                                 <div class="bottom d-flex justify-content-between">
                                                     <div>
                                                         <h4 class="mt-0">Recent Music Playlist</h4>
-                                                        <p>Selected by techmania</p>
+                                                        <p>Relax your life</p>
                                                     </div>
                                                     <div>
                                                         <span class="lnr lnr-arrow-down text-white"></span>
@@ -262,7 +262,7 @@ class Banner extends Component {
 											All Saints, “Pure Shores”
 											</a>
 										</li>
-											<li>
+											{/* <li>
 											<a href="https://www.youtube.com/watch?v=hLQl3WQQoQ0">
 											Adele, “Someone Like You”
 											</a>
@@ -271,7 +271,7 @@ class Banner extends Component {
 											<a href="https://www.youtube.com/watch?v=Fc3fmSSUwck">
 											Mozart, “Canzonetta Sull’aria”
 											</a>
-										</li>
+										</li> */}
 									</ul>
                                             </div>
                                         </div>

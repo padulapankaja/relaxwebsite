@@ -17,7 +17,7 @@ class Header extends Component {
 
     render() {
         return (
-            <div className="text-left">
+            <div className="text-left" style={{maxHeight:'300px'}}>
 		<div class="main-menu" id="main-menu">
 			<div class="container">
 				<div class="row align-items-center justify-content-between">

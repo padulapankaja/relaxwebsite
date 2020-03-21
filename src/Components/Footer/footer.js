@@ -1,9 +1,11 @@
 import React, { Component } from 'react';
 
 
+
 // images import 
 import logo from '../../Images/logo.png'
-
+import n1 from '../../Images/n1.jpg'
+import n2 from '../../Images/n2.jpg'
 class Footer extends Component {
     constructor() {
         super();
@@ -62,7 +64,7 @@ class Footer extends Component {
                                     <div class="footer-news">
                                         <div class="single-news d-flex">
                                             <div class="image">
-                                                <img class="" src="img/n1.jpg" alt="relax hotel" />
+                                                <img class="" src={n1} alt="relax hotel" />
                                             </div>
                                             <div class="details">
                                                 <a href="#">
@@ -80,7 +82,7 @@ class Footer extends Component {
                                         </div>
                                         <div class="single-news d-flex">
                                             <div class="image">
-                                                <img class="" src="img/n2.jpg" alt="relax hotel" />
+                                                <img class="" src={n2} alt="relax hotel" />
                                             </div>
                                             <div class="details">
                                                 <a href="#">
@@ -105,7 +107,7 @@ class Footer extends Component {
                         <div class="container">
                             <div class="row footer-bottom d-flex justify-content-between">
                                 <p class="col-lg-8 col-sm-6 footer-text m-0 text-white">
-                                    Copyright &copy; All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="http://lucidex.lk" target="_blank">Lucidex</a>
+                                    Copyright &copy; All rights reserved |  <a style={{color:'white', fontWeight:'900'}} href="http://lucidex.lk" target="_blank">Lucidex</a>
                                 </p>
                                 <div class="col-lg-4 col-sm-6 footer-social">
                                     <a href="#"><i class="fa fa-facebook"></i></a>
