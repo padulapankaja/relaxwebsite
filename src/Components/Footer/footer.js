@@ -21,7 +21,7 @@ class Footer extends Component {
 
     render() {
         return (
-            <div className="container-fluid text-left">
+            <div className="text-left">
                 <footer class="footer-area section-gap-top">
                     <div class="container">
                         <div class="row pb-10">
@@ -31,9 +31,7 @@ class Footer extends Component {
                                         <img src={logo} alt="relax hotel" />
                                     </div>
                                     <p>
-                                        Technology and gadgets Adapter (MPA) is our favorite iPhone solution, since it lets you use the headphones
-                                        you’re most comfortable with. It has an iPhone-compatible jack at one end and a microphone module with an
-                                        Answer/End/Pause button and a female 3.5mm audio jack for connectingheadphones
+                                    Has someone ever told you to “just relax” when you’re in the middle of a stressful situation, and you thought to yourself, “Well, that’s easy for you to say!”
 						</p>
                                 </div>
                             </div>
@@ -43,14 +41,14 @@ class Footer extends Component {
                                     <div class="row">
                                         <ul class="col footer-nav">
                                             <li><a href="#">Sitemaps</a></li>
-                                            <li><a href="#">Categories</a></li>
-                                            <li><a href="#">Archives</a></li>
-                                            <li><a href="#">Advertise</a></li>
-                                            <li><a href="#">Ad Choice</a></li>
+                                            <li><a href="#">Videos</a></li>
+                                            <li><a href="#">News</a></li>
+                                            <li><a href="#">Ayurveda</a></li>
+                                            <li><a href="#">Contact</a></li>
                                         </ul>
                                         <ul class="col footer-nav">
-                                            <li><a href="#">Privacy Policy</a></li>
-                                            <li><a href="#">Terms of Use</a></li>
+                                            {/* <li><a href="#">Privacy Policy</a></li>
+                                            <li><a href="#">Terms of Use</a></li> */}
                                             <li><a href="#">Help Center</a></li>
                                             <li><a href="#">Newsletters</a></li>
                                             <li><a href="#">Feedback</a></li>
@@ -110,11 +108,10 @@ class Footer extends Component {
                                     Copyright &copy; All rights reserved |  <a style={{color:'white', fontWeight:'900'}} href="http://lucidex.lk" target="_blank">Lucidex</a>
                                 </p>
                                 <div class="col-lg-4 col-sm-6 footer-social">
-                                    <a href="#"><i class="fa fa-facebook"></i></a>
-                                    <a href="#"><i class="fa fa-twitter"></i></a>
-                                    <a href="#"><i class="fa fa-youtube-play"></i></a>
-                                    <a href="#"><i class="fa fa-pinterest"></i></a>
-                                    <a href="#"><i class="fa fa-rss"></i></a>
+                                    <a href="https://www.facebook.com/lucidexsolutions/" target="_blank"><i class="fa fa-facebook"></i></a>
+                                    <a href="https://twitter.com/lucidex_" target="_blank"><i class="fa fa-twitter"></i></a>
+                                    <a href="https://www.linkedin.com/company/31043839/" target="_blank"><i class="fa fa-linkedin"></i></a>
+                                    <a href="https://www.instagram.com/lucidex_solutions/" target="_blank"><i class="fa fa-instagram"></i></a>
                                 </div>
                             </div>
                         </div>

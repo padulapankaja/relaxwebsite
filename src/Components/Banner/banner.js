@@ -48,13 +48,13 @@ class Banner extends Component {
                                                 <div class="bottom d-flex justify-content-between align-items-center flex-wrap">
                                                     <div>
                                                         <a href="{{url('/post-details')}}" class="primary-btn">View</a>
-                                                        <a href="#"><span>September 14, 2018</span></a>
+                                                        <a><span>September 14, 2018</span></a>
                                                     </div>
                                                     <div class="meta">
                                                         <span class="lnr lnr-bubble"></span> 04
 										</div>
                                                 </div>
-                                                <a href="#">
+                                                <a>
                                                     <h4>	Declutter your outer world </h4>
                                                 </a>
                                                 <p>
@@ -75,13 +75,13 @@ class Banner extends Component {
                                                 <div class="bottom d-flex justify-content-between align-items-center flex-wrap">
                                                     <div>
                                                         <a href="{{url('/post-details')}}" class="primary-btn">View</a>
-                                                        <a href="#"><span>September 14, 2018</span></a>
+                                                        <a><span>September 14, 2018</span></a>
                                                     </div>
                                                     <div class="meta">
                                                         <span class="lnr lnr-bubble"></span> 04
 										</div>
                                                 </div>
-                                                <a href="#">
+                                                <a>
                                                     <h4>Always arrive early </h4>
                                                 </a>
                                                 <p>
@@ -103,13 +103,13 @@ class Banner extends Component {
                                                 <div class="bottom d-flex justify-content-between align-items-center flex-wrap">
                                                     <div>
                                                         <a href="{{url('/post-details')}}" class="primary-btn">View</a>
-                                                        <a href="#"><span>September 14, 2018</span></a>
+                                                        <a><span>September 14, 2018</span></a>
                                                     </div>
                                                     <div class="meta">
                                                         <span class="lnr lnr-bubble"></span> 04
 										</div>
                                                 </div>
-                                                <a href="#">
+                                                <a>
                                                     <h4>Meditate </h4>
                                                 </a>
                                                 <p>
@@ -134,13 +134,13 @@ class Banner extends Component {
                                         <div class="bottom d-flex justify-content-start align-items-center flex-wrap">
                                             <div>
                                                 <a href="{{url('/post-details')}}" class="primary-btn">View</a>
-                                                <a href="#"><span>September 14, 2018</span></a>
+                                                <a><span>September 14, 2018</span></a>
                                             </div>
                                             <div class="meta">
                                                 <span class="lnr lnr-bubble"></span> 04
 								</div>
                                         </div>
-                                        <a href="#">
+                                        <a>
                                             <h4 class="lg-font">Find the opportunity hidden within the problem<br />
                                             </h4>
                                         </a>
@@ -148,7 +148,7 @@ class Banner extends Component {
                                             Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. Lorem
                                             ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.
 							</p>
-                                        <a href="#" class="primary-btn fill mt-30">read more</a>
+                                        <a class="primary-btn fill mt-30">read more</a>
                                     </div>
                                 </div>
 
@@ -163,13 +163,13 @@ class Banner extends Component {
                                         <div class="bottom d-flex justify-content-start align-items-center flex-wrap">
                                             <div>
                                                 <a href="{{url('/post-details')}}" class="primary-btn">View</a>
-                                                <a href="#"><span>September 14, 2018</span></a>
+                                                <a><span>September 14, 2018</span></a>
                                             </div>
                                             <div class="meta">
                                                 <span class="lnr lnr-bubble"></span> 04
 								</div>
                                         </div>
-                                        <a href="#">
+                                        <a>
                                             <h4 class="lg-font">Nest Protect: 2nd Gen Smoke <br />
 									+ CO Alarm</h4>
                                         </a>
@@ -177,7 +177,7 @@ class Banner extends Component {
                                             Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. Lorem
                                             ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.
 							</p>
-                                        <a href="#" class="primary-btn fill mt-30">read more</a>
+                                        <a class="primary-btn fill mt-30">read more</a>
                                     </div>
                                 </div>
                             </div>

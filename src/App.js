@@ -3,7 +3,7 @@ import './App.css';
 
 
 //import router
-import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+import { BrowserRouter as Router, Route, Switch, Link } from "react-router-dom";
 
 
 import React, { Component } from 'react';
@@ -20,6 +20,7 @@ import Homepage from './Components/homepage'
 
 // import inner pages
 import Allvideos from './Components/InnerPages/allvideos'
+import Allnews from './Components/InnerPages/allnews'
 
 //import fooyter
 import Footer from './Components/Footer/footer'
@@ -44,6 +45,7 @@ class App extends Component {
         <Router>
           <Route path="/" exact strict component={Homepage}></Route>
           <Route path="/videos" exact strict component={Allvideos}></Route>
+          <Route path="/news" exact strict component={Allnews}></Route>
         </Router>
         <Footer/>
       </div>

@@ -36,11 +36,11 @@ class Editorpick extends Component {
 						<div class="">
 							<div class="bottom">
 								<div>
-									<a href="#" class="primary-btn">gadgets</a>
-									<a href="#"><span>September 14, 2018</span></a>
+									<a  class="primary-btn">gadgets</a>
+									<a ><span>September 14, 2018</span></a>
 								</div>
 							</div>
-							<a href="#">
+							<a >
 								<h4>2nd Gen Smoke CO Alarm time <br/>
 									to get up from sleep</h4>
 							</a>
@@ -57,11 +57,11 @@ class Editorpick extends Component {
 						<div class="">
 							<div class="bottom">
 								<div>
-									<a href="#" class="primary-btn">gadgets</a>
-									<a href="#"><span>September 14, 2018</span></a>
+									<a  class="primary-btn">gadgets</a>
+									<a ><span>September 14, 2018</span></a>
 								</div>
 							</div>
-							<a href="#">
+							<a >
 								<h4>2nd Gen Smoke CO Alarm time <br/>
 									to get up from sleep</h4>
 							</a>
@@ -78,11 +78,11 @@ class Editorpick extends Component {
 						<div class="">
 							<div class="bottom">
 								<div>
-									<a href="#" class="primary-btn">gadgets</a>
-									<a href="#"><span>September 14, 2018</span></a>
+									<a  class="primary-btn">gadgets</a>
+									<a ><span>September 14, 2018</span></a>
 								</div>
 							</div>
-							<a href="#">
+							<a >
 								<h4>2nd Gen Smoke CO Alarm time <br/>
 									to get up from sleep</h4>
 							</a>
@@ -99,11 +99,11 @@ class Editorpick extends Component {
 						<div class="">
 							<div class="bottom">
 								<div>
-									<a href="#" class="primary-btn">gadgets</a>
-									<a href="#"><span>September 14, 2018</span></a>
+									<a  class="primary-btn">gadgets</a>
+									<a ><span>September 14, 2018</span></a>
 								</div>
 							</div>
-							<a href="#">
+							<a >
 								<h4>2nd Gen Smoke CO Alarm time <br/>
 									to get up from sleep</h4>
 							</a>

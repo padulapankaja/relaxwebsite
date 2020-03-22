@@ -83,11 +83,11 @@ class Allvideos extends Component {
                                                 <div class="">
                                                     <div class="bottom mt-10">
                                                         <div>
-                                                            <a href="#" class="primary-btn">gadgets</a>
-                                                            <a href="#"><span>September 14, 2018</span></a>
+                                                            <a class="primary-btn">gadgets</a>
+                                                            <a><span>September 14, 2018</span></a>
                                                         </div>
                                                     </div>
-                                                    <a href="#">
+                                                    <a>
                                                         <h4>Facts Why Inkjet Printing Is
 												Appealing Compared</h4>
                                                     </a>
@@ -108,11 +108,11 @@ class Allvideos extends Component {
                                                 <div class="">
                                                     <div class="bottom mt-10">
                                                         <div>
-                                                            <a href="#" class="primary-btn">gadgets</a>
-                                                            <a href="#"><span>September 14, 2018</span></a>
+                                                            <a class="primary-btn">gadgets</a>
+                                                            <a><span>September 14, 2018</span></a>
                                                         </div>
                                                     </div>
-                                                    <a href="#">
+                                                    <a>
                                                         <h4>Facts Why Inkjet Printing Is
 												Appealing Compared</h4>
                                                     </a>
@@ -130,11 +130,11 @@ class Allvideos extends Component {
                                                 <div class="">
                                                     <div class="bottom mt-10">
                                                         <div>
-                                                            <a href="#" class="primary-btn">gadgets</a>
-                                                            <a href="#"><span>September 14, 2018</span></a>
+                                                            <a class="primary-btn">gadgets</a>
+                                                            <a><span>September 14, 2018</span></a>
                                                         </div>
                                                     </div>
-                                                    <a href="#">
+                                                    <a>
                                                         <h4>Facts Why Inkjet Printing Is
 												Appealing Compared</h4>
                                                     </a>
@@ -155,11 +155,11 @@ class Allvideos extends Component {
                                                 <div class="">
                                                     <div class="bottom mt-10">
                                                         <div>
-                                                            <a href="#" class="primary-btn">gadgets</a>
-                                                            <a href="#"><span>September 14, 2018</span></a>
+                                                            <a class="primary-btn">gadgets</a>
+                                                            <a><span>September 14, 2018</span></a>
                                                         </div>
                                                     </div>
-                                                    <a href="#">
+                                                    <a>
                                                         <h4>Facts Why Inkjet Printing Is
 												Appealing Compared</h4>
                                                     </a>
@@ -177,11 +177,11 @@ class Allvideos extends Component {
                                                 <div class="">
                                                     <div class="bottom mt-10">
                                                         <div>
-                                                            <a href="#" class="primary-btn">gadgets</a>
-                                                            <a href="#"><span>September 14, 2018</span></a>
+                                                            <a class="primary-btn">gadgets</a>
+                                                            <a><span>September 14, 2018</span></a>
                                                         </div>
                                                     </div>
-                                                    <a href="#">
+                                                    <a>
                                                         <h4>Facts Why Inkjet Printing Is
 												Appealing Compared</h4>
                                                     </a>
@@ -199,11 +199,11 @@ class Allvideos extends Component {
                                                 <div class="">
                                                     <div class="bottom mt-10">
                                                         <div>
-                                                            <a href="#" class="primary-btn">gadgets</a>
-                                                            <a href="#"><span>September 14, 2018</span></a>
+                                                            <a class="primary-btn">gadgets</a>
+                                                            <a><span>September 14, 2018</span></a>
                                                         </div>
                                                     </div>
-                                                    <a href="#">
+                                                    <a>
                                                         <h4>Facts Why Inkjet Printing Is
 												Appealing Compared</h4>
                                                     </a>
@@ -221,11 +221,11 @@ class Allvideos extends Component {
                                                 <div class="">
                                                     <div class="bottom mt-10">
                                                         <div>
-                                                            <a href="#" class="primary-btn">gadgets</a>
-                                                            <a href="#"><span>September 14, 2018</span></a>
+                                                            <a class="primary-btn">gadgets</a>
+                                                            <a><span>September 14, 2018</span></a>
                                                         </div>
                                                     </div>
-                                                    <a href="#">
+                                                    <a>
                                                         <h4>Facts Why Inkjet Printing Is
 												Appealing Compared</h4>
                                                     </a>
@@ -243,11 +243,11 @@ class Allvideos extends Component {
                                                 <div class="">
                                                     <div class="bottom mt-10">
                                                         <div>
-                                                            <a href="#" class="primary-btn">gadgets</a>
-                                                            <a href="#"><span>September 14, 2018</span></a>
+                                                            <a class="primary-btn">gadgets</a>
+                                                            <a><span>September 14, 2018</span></a>
                                                         </div>
                                                     </div>
-                                                    <a href="#">
+                                                    <a>
                                                         <h4>Facts Why Inkjet Printing Is
 												Appealing Compared</h4>
                                                     </a>
@@ -265,11 +265,11 @@ class Allvideos extends Component {
                                                 <div class="">
                                                     <div class="bottom mt-10">
                                                         <div>
-                                                            <a href="#" class="primary-btn">gadgets</a>
-                                                            <a href="#"><span>September 14, 2018</span></a>
+                                                            <a class="primary-btn">gadgets</a>
+                                                            <a><span>September 14, 2018</span></a>
                                                         </div>
                                                     </div>
-                                                    <a href="#">
+                                                    <a>
                                                         <h4>Facts Why Inkjet Printing Is
 												Appealing Compared</h4>
                                                     </a>
@@ -332,17 +332,17 @@ class Allvideos extends Component {
                                                 </div>
                                                 <ul class="list">
                                                     <li>
-                                                        <a href="#">
+                                                        <a>
                                                             Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.
 											</a>
                                                     </li>
                                                     <li>
-                                                        <a href="#">
+                                                        <a>
                                                             Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.
 											</a>
                                                     </li>
                                                     <li>
-                                                        <a href="#">
+                                                        <a>
                                                             Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.
 											</a>
                                                     </li>

@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 
 import headerLog from "../../Images/logo.png"
-
+import { BrowserRouter as Router, Route, Switch, Link } from "react-router-dom";
 
 
 class Header extends Component {
@@ -29,15 +29,17 @@ class Header extends Component {
 					<nav id="nav-menu-container" class="ml-auto">
 							<ul class="nav-menu">
 								<li class="menu-active"><a href="/">Home</a></li>
-								<li><a href="/videos">Videos</a></li>
-								<li><a href="category.html">Category</a></li>
-								<li class="menu-has-children"><a href="/">Pages</a>
+								<li><Link to="/videos">Videos</Link></li>
+								<li><Link to="/">Category</Link></li>
+								<li><Link to="/news">News</Link></li>
+								{/* <li class="menu-has-children"><Link to="/">News</Link>
 									<ul>
-										<li><a href="/">Post Details</a></li>
-										<li><a href="/">Elements</a></li>
+										<li><Link to="/">Post Details</Link></li>
+										<li><Link to="/">Elements</Link></li>
 									</ul>
-								</li>
-								<li><a href="/">Contact</a></li>
+								</li> */}
+								<li><Link to="/">Ayurveda</Link></li>
+								<li><Link to="/">Contact</Link></li>
 							</ul>
 						</nav>
 					<div class="navbar-right ml-auto">

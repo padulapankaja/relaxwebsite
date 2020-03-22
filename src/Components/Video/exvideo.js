@@ -48,14 +48,14 @@ class Exvideo extends Component {
 						<div class="details">
 							<div class="bottom d-flex justify-content-start align-items-center flex-wrap">
 								<div>
-									<a href="#" class="primary-btn">gadgets</a>
-									<a href="#"><span>September 14, 2018</span></a>
+									<a  class="primary-btn">gadgets</a>
+									<a ><span>September 14, 2018</span></a>
 								</div>
 								<div class="meta">
 									<span class="lnr lnr-bubble"></span> 04
 								</div>
 							</div>
-							<a href="#">
+							<a >
 								<h4 class="lg-font">Nest Protect: 2nd Gen Smoke
 									+ CO Alarm</h4>
 							</a>
@@ -79,14 +79,14 @@ class Exvideo extends Component {
 						<div class="details">
 							<div class="bottom d-flex justify-content-start align-items-center flex-wrap">
 								<div>
-									<a href="#" class="primary-btn">gadgets</a>
-									<a href="#"><span>September 14, 2018</span></a>
+									<a  class="primary-btn">gadgets</a>
+									<a ><span>September 14, 2018</span></a>
 								</div>
 								<div class="meta">
 									<span class="lnr lnr-bubble"></span> 04
 								</div>
 							</div>
-							<a href="#">
+							<a >
 								<h4 class="lg-font">Nest Protect: 2nd Gen Smoke
 									+ CO Alarm</h4>
 							</a>
@@ -110,14 +110,14 @@ class Exvideo extends Component {
 						<div class="details">
 							<div class="bottom d-flex justify-content-start align-items-center flex-wrap">
 								<div>
-									<a href="#" class="primary-btn">gadgets</a>
-									<a href="#"><span>September 14, 2018</span></a>
+									<a  class="primary-btn">gadgets</a>
+									<a ><span>September 14, 2018</span></a>
 								</div>
 								<div class="meta">
 									<span class="lnr lnr-bubble"></span> 04
 								</div>
 							</div>
-							<a href="#">
+							<a >
 								<h4 class="lg-font">Nest Protect: 2nd Gen Smoke
 									+ CO Alarm</h4>
 							</a>
